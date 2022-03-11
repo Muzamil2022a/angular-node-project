@@ -1,7 +1,7 @@
 # angular-node-project
 angular-node-project
 
-Frontend - npm install
-           ng serve/npm start
+Frontend -            npm install
+To run script -       ng serve/npm start
            
-Backend - npm start
+Backend run script -  npm start
