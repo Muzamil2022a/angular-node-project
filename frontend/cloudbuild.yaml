@@ -9,5 +9,5 @@ steps:
     args: [ 'run', 'build', '--prod' ]
 
   # Deploy to google cloud app engine
-  - name: 'gcr.io/cloud-builders/npm'
+  - name: 'gcr.io/cloud-builders/gcloud'
     args: [ 'app', 'deploy', '--version=prod' ]
